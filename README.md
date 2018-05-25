@@ -1,6 +1,9 @@
 # Test a Perceptual Phenomenon
 
-Udacity Data Analyst December 2017 - May 2018. Project 5: Test a Perceptual Phenomenon using Null Hypothesis 
+Udacity Data Analyst December 2017 - May 2018. 
+
+Project 5: Test a Perceptual Phenomenon using Null Hypothesis 
+
 [Click to preview](https://github.com/latinacode/Test-a-Perceptual-Phenomenon/blob/master/Test%20a%20Perceptual%20Phenomenon.html)
 
 # Project Overview
